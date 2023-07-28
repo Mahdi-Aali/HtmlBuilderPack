@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern", "BuilderDesignPattern\BuilderDesignPattern.csproj", "{3ACA4924-4CAB-4946-A3D8-C696A03B0FFC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlBuilderPack", "HtmlBuilder\HtmlBuilderPack.csproj", "{08876DE7-3021-41ED-A3E7-65AF2D4D1AFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HtmlBuilderPack", "HtmlBuilder\HtmlBuilderPack.csproj", "{08876DE7-3021-41ED-A3E7-65AF2D4D1AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3ACA4924-4CAB-4946-A3D8-C696A03B0FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3ACA4924-4CAB-4946-A3D8-C696A03B0FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3ACA4924-4CAB-4946-A3D8-C696A03B0FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3ACA4924-4CAB-4946-A3D8-C696A03B0FFC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08876DE7-3021-41ED-A3E7-65AF2D4D1AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08876DE7-3021-41ED-A3E7-65AF2D4D1AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08876DE7-3021-41ED-A3E7-65AF2D4D1AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
